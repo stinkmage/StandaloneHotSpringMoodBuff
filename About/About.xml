@@ -9,7 +9,7 @@
   <modVersion>1.0.0</modVersion>
   <description>adds the vanilla hot spring mood buff to hot springs from standalone hot spring. when a colonist finishes bathing, they'll get the "hot spring" mood bonus that odyssey adds ! (+2 mood for 2.4 hours)
 
-    - this will require the odyssey DLC for the mood buff to work since the thought is defined there... you can use this mod without it but nothing will happen :(
+    - this requires the odyssey DLC since the hot spring thought is defined there !
 
     - also compatible with better hot springs ! with it, the buff will use the improved mood: +6 mood for 6 hours
   </description>
@@ -24,6 +24,10 @@
       <packageId>balistafreak.standalonehotspring</packageId>
       <displayName>Standalone Hot Spring</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/2205980094</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>ludeon.rimworld.odyssey</packageId>
+      <displayName>Odyssey</displayName>
     </li>
   </modDependencies>
   <loadAfter>
